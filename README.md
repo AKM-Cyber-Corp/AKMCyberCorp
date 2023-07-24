@@ -25,6 +25,7 @@ The QSI Foundation is a non-profit organization with the following five primary 
 
 5) To ensure that the provided solution is quantum-safe, capable of withstanding quantum computer attacks, such as via Shor's algorithm.
 
-## What's Nest?
+## What's Next?
 Currently, the QSI Foundation is in the process of creating a GitHub repository, where we will share the draft version of this groundbreaking software project with the world, making it freely available for public use.
+
 We look forward to all feedback and contributions as the QSI Foundation evolves.
