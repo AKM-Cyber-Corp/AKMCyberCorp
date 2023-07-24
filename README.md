@@ -13,13 +13,17 @@ You can click the Preview link to take a look at your changes.
 
 The QSI Foundation is a non-profit organization with the following five primary objectives:
 
-## 1) To offer a superior alternative to the current cryptographic security standard of PKI+TLS, for managing and distributing cryptographic bulk encryption keys.
+## Our Misson
 
-## 2) To democratize security, making it more accessible and inclusive for all.
+1) To offer a superior alternative to the current cryptographic security standard of PKI+TLS, for managing and distributing cryptographic bulk encryption keys.
 
-## 3) To ensure that the provided solution is quantum-safe, capable of withstanding quantum computer attacks.
+2) To democratize security, making it more accessible and inclusive for all.
 
-## 4) To provide a significantly simpler cryptographic key management solution compared to the existing PKI and TLS protocols.
+3) To ensure that the provided solution is quantum-safe, capable of withstanding quantum computer attacks.
 
-## 5) To offer a solution that inherently mitigates the vast majority of today's cyberattacks.
+4) To provide a significantly simpler cryptographic key management solution compared to the existing PKI and TLS protocols.
+
+5) To offer a solution that inherently mitigates the vast majority of today's cyberattacks.
+
+## What's Nest?
 Currently, the QSI Foundation is in the process of creating a GitHub repository, where they will share this groundbreaking solution with the world, making it freely available for public use.
