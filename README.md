@@ -1,7 +1,7 @@
 - 👋 Hi, this is the @QSIFoundation
-- 👀 We're here to promote autonomous Quantum-Safe cybersecurity projects
+- 👀 We're here to promote autonomous Quantum-Safe cybersecurity software projects
 - 🌱 Autonomous Key Management (AKM) for symmetric cryptography, is one of our first projects
-- 💞️ We're looking to collaborate on alternatives to PKI/TLS using AKM, on a new quantum-safe secure transport layer 
+- 💞️ We're looking to collaborate on alternatives to PKI/TLS using AKM, on a new quantum-safe secure transport layer software
 - 📫 How to reach us qsif at qsifoundation dot org (or qsif at qsisec dot org)
 
 <!---
