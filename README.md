@@ -1,11 +1,11 @@
 # AKM Cyber Corp.
-- Hi, this is the AKM Project @AKMCyberCorp
+- Hi, this is AKMCyberCorp 
 - We're here to implement Autonomous Key Management (AKM)
 - We're looking to collaborate on alternatives to PKI/TLS using AKM, on new quantum-safe secure transport layer networking software
 - How to reach us: bart@akmcyber.com
 
 <!---
-QSIFoundation/AKM is a ? special ? repository because its `README.md` (this file) appears on your GitHub profile.
+QSIFoundation/AKMCyberCorp is a ? special ? repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
