@@ -1,5 +1,5 @@
 # AKM Cyber Corp.
-![logo](images/AKMCyberLogo.png)
+![logo](images/AKMCyberLogo.png){width=300 height=200}
 - We are AKMCyberCorp 
 - We're here to implement Autonomous Key Management (AKM)
 - We're looking to collaborate on alternatives to PKI/TLS using AKM, on new quantum-safe secure transport layer networking software
