@@ -1,17 +1,16 @@
-- Hi, this is the @AKMCyber
-- We're here to promote autonomous Quantum-Safe cybersecurity software projects
-- Autonomous Key Management (AKM) for symmetric cryptography, is one of our first projects
+# AKM Cyber Corp
+![logo](images/AKMCyberLogo.png)
+- We are AKMCyberCorp 
+- We're here to implement Autonomous Key Management (AKM)
 - We're looking to collaborate on alternatives to PKI/TLS using AKM, on new quantum-safe secure transport layer networking software
 - How to reach us: bart@akmcyber.com
 
 <!---
-QSIFoundation/AKMCyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AKM-Cyber-Corp/AKMCyber is a ? special ? repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Introduction
-
-AKM Cyber Corp has the following five primary objectives:
+# AKM Cyber Corp's Objectives for AKM
 
 ## Our Misson
 
@@ -26,6 +25,5 @@ AKM Cyber Corp has the following five primary objectives:
 5) To ensure that the provided solution is quantum-safe, capable of withstanding quantum computer attacks, such as via Shor's algorithm.
 
 ## What's Next?
-Currently, the AKM Cyber Corp is in the process of creating a GitHub repository, where we will share the draft version of this groundbreaking software project with the world, making it freely available for public use.
-
-We look forward to all public feedback and documentation, specification or code contributions as the QSI Foundation evolves.
+* To create a set of GitHub repositories representing AKM code and documenation.
+* As an Open Source project, to bring on collaborators. We hope that this will be an exciting adventure.
