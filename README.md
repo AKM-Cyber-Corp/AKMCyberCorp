@@ -24,6 +24,21 @@ You can click the Preview link to take a look at your changes.
 
 5) To ensure that the provided solution is quantum-safe, capable of withstanding quantum computer attacks, such as via Shor's algorithm.
 
+## We are dedicated to Open Source
+When coming up with the AKM concept, we realized several things:
+1) The entire world will benefit from having a simpler, more secure, methodology that provides both "confidentiality" and "authentication".
+
+2) Although, we are a "for profit" business, opening up AKM to the entire world, with the hope it will one day become the standard, benefits everyone, not just us.  So, while we want the world to "acknowledge" us as the "creators" of AKM and AIM, they are free to use it, free of charge without us benefiting in any direct manner from their usage.
+
+3) Thus, just like PKI is an Oasis standard and free to use, so is AKM (and hopefully will also one day be a standard) and just like TLS is an IETF RFC standard, we hope the same for ALS (AKM Layer Security).
+
+4) We are opening to the world additional extensions like AIM (for managing and ensuring the integrity of all assets within a system, both physical and virtual, and done in a manner that can guarantee the integrity instantaneously), and AKM HSMs (which will be at least an order of magnitude less expensive than traditional similar HSMs, enabling true, HSM to HSM security, a novel concept to say the least.
+
+5) Traditional Zero Trust Architectures are both complex and difficult to maintain.  AKM Zero Trust is both simplistic and requires virtual zero maintenance.
+
+This is what we will offer to the world, free of charge.  AKM Cyber as the pioneers of these technologies, will be seen as the experts and thus, the "go to" company for providing AKM and its derivative products.
+
 ## What's Next?
 * To create a set of GitHub repositories representing AKM code and documenation.
 * As an Open Source project, to bring on collaborators. We hope that this will be an exciting adventure.
+
