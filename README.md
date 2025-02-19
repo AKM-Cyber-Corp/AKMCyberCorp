@@ -3,7 +3,7 @@
 - We are AKMCyberCorp 
 - We're here to implement Autonomous Key Management (AKM)
 - We're looking to collaborate on alternatives to PKI/TLS using AKM, on new quantum-safe secure transport layer networking software
-- How to reach us: bart@akmcyber.com
+- How to reach us: bart@akmcyber.com or larry@akmcyber.com
 
 <!---
 AKM-Cyber-Corp/AKMCyber is a ? special ? repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +36,9 @@ When coming up with the AKM concept, we realized several things:
 
 5) Traditional Zero Trust Architectures are both complex and difficult to maintain.  AKM Zero Trust is both simplistic and requires virtual zero maintenance.
 
-This is what we will offer to the world, free of charge.  AKM Cyber as the pioneers of these technologies, will be seen as the experts and thus, the "go to" company for providing AKM and its derivative products.
+6) While AKM does not pretend to be based on AI, because of its autonomous nature, AKM (and its derivative products) is the perfect AI security companion and defender against rogue AI attacks, providing both offensive and defensive capabilities.
+
+This is what we will offer to the world, free of charge.  While AKM Cyber are for now, the initial pioneers of these technologies, we are looking to be as inclusive as possible, adding AKM pioneers to our team, for all who wish to be part of the journey in spreading the gospel of AKM and its derivative products.
 
 ## What's Next?
 * To create a set of GitHub repositories representing AKM code and documenation.
