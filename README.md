@@ -37,7 +37,7 @@ When coming up with the AKM concept, we realized several things:
 
 6) While AKM does not pretend to be based on AI, because of its autonomous nature, AKM (and its derivative products) is the perfect AI security companion and defender against rogue AI attacks, providing both offensive and defensive capabilities.
 
-This is what we will offer to the world, free of charge.  Today, the OpenAKM team are for now, the initial pioneers of these technologies, we are looking to be as inclusive as possible, adding AKM pioneers (outside of OpenAKM) to be part of the larger, AKM journey and team, for all who wish to participate in both extending AKM as well as spreading the benefits of AKM and its derivative products.
+This is what we will offer to the world, free of charge.  Today, the OpenAKM team are for now, the initial pioneers of these technologies, we are looking to be as inclusive as possible, adding AKM pioneers (within the OpenAKM project and outside with our adopters) to be part of the larger, AKM journey and team, for all who wish to participate in both extending AKM as well as spreading the benefits of AKM and its derivative products.
 
 ## What's Next?
 * To create a set of GitHub repositories representing AKM code and documentation.
