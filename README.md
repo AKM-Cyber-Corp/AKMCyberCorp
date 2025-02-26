@@ -1,4 +1,4 @@
-# AKM Cyber Corp
+# OpenAKM
 ![logo](images/AKMCyberLogo.png)
 - We are OpenAKM
 - We're here to implement Autonomous Key Management (AKM)
