@@ -1,5 +1,5 @@
 # OpenAKM
-![logo](images/OpenAKM-Logo.jpg.jpg)
+![logo](images/OpenAKM-Logo.jpg)
 - We are OpenAKM
 - We're here to implement Autonomous Key Management (AKM)
 - We're looking to collaborate on alternatives to PKI/TLS using AKM, on new quantum-safe secure transport layer networking software
