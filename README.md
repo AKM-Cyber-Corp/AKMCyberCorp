@@ -23,20 +23,20 @@ You can click the Preview link to take a look at your changes.
 
 5) To ensure that the provided solution is quantum-safe, capable of withstanding quantum computer attacks, such as via Shor's algorithm.
 
-## We are dedicated to Open Source
+## We are dedicated to Cyber Security
 When coming up with the AKM concept, we realized several things:
 1) The entire world will benefit from having a simpler, more secure, methodology that provides both "confidentiality" and "authentication
 2) We hope AKM will one day become the standard and benefits the world.
 
-3) Thus, just like PKI is an Oasis standard and free to use, so is AKM (and hopefully will also one day be a standard) and just like TLS is an IETF RFC standard, we hope the same for ALS (AKM Layer Security).
+3) Thus, just like PKI is an Oasis standard, we hope that AKM will also one day be an IETF RFC standard.
 
 4) We are opening to the world additional extensions like AIM (for managing and ensuring the integrity of all assets within a system, both physical and virtual, and done in a manner that can guarantee the integrity instantaneously), and AKM HSMs (which will be at least an order of magnitude less expensive than traditional similar HSMs, enabling true, HSM to HSM security, a novel concept to say the least.
 
-5) Traditional Zero Trust Architectures are both complex and difficult to maintain.  AKM Zero Trust is both simplistic and requires virtual zero maintenance.
+6) Traditional Zero Trust Architectures are both complex and difficult to maintain.  AKM Zero Trust is both simplistic and requires virtual zero maintenance.
 
-6) While AKM does not pretend to be based on AI, because of its autonomous nature, AKM (and its derivative products) is the perfect AI security companion and defender against rogue AI attacks, providing both offensive and defensive capabilities.
+7) While AKM does not pretend to be based on AI, because of its autonomous nature, AKM (and its derivative products) is the perfect AI security companion and defender against rogue AI attacks, providing both offensive and defensive capabilities.
 
-This is what we will offer to the world, free of charge.  Today, the OpenAKM team are for now, the initial pioneers of these technologies, we are looking to be as inclusive as possible, adding AKM pioneers (within the OpenAKM project and outside with our adopters) to be part of the larger, AKM journey and team, for all who wish to participate in both extending AKM as well as spreading the benefits of AKM and its derivative products.
+This is what we will offer to the world, free of charge.  Today, the AKMCyber Corp team are for now, the initial pioneers of these technologies, we are looking to be as inclusive as possible, adding AKM pioneers to be part of the larger, AKM journey and team, for all who wish to participate in both extending AKM as well as spreading the benefits of AKM and its derivative products.
 
 ## What's Next?
 * To create a set of GitHub repositories representing AKM code and documentation.
